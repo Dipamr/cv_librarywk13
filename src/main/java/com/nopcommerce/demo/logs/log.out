@@ -1,0 +1,122 @@
+2023-02-07 20:02:701 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (155a46fdac32bc7d52cd5ba095aaed56)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:93 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (155a46fdac32bc7d52cd5ba095aaed56)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:455 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (155a46fdac32bc7d52cd5ba095aaed56)] -> xpath: //select[@id='distance']]
+2023-02-07 20:02:187 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (36495f382d0ba7777bf618571ac5384a)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:536 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (36495f382d0ba7777bf618571ac5384a)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:892 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (36495f382d0ba7777bf618571ac5384a)] -> xpath: //select[@id='distance']]
+2023-02-07 20:02:293 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (e95eacbd324a2a97c25e35183556db3f)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:583 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (e95eacbd324a2a97c25e35183556db3f)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:832 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (e95eacbd324a2a97c25e35183556db3f)] -> xpath: //select[@id='distance']]
+2023-02-07 20:02:649 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (d5b77b6f5242084fd1aeed6cab3434ee)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:623 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (d5b77b6f5242084fd1aeed6cab3434ee)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:996 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (d5b77b6f5242084fd1aeed6cab3434ee)] -> xpath: //select[@id='distance']]
+2023-02-07 20:02:911 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (12311f25564b52e922fd9174f2a2b7bf)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:225 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (12311f25564b52e922fd9174f2a2b7bf)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:461 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (12311f25564b52e922fd9174f2a2b7bf)] -> xpath: //select[@id='distance']]
+2023-02-07 20:02:988 INFO  Locators :48 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (70d8d5dca663f4ca9574c3005add903c)] -> xpath: //input[@id='keywords']]
+2023-02-07 20:02:480 INFO  Locators :53 - enter Location[[ChromeDriver: chrome on WINDOWS (70d8d5dca663f4ca9574c3005add903c)] -> xpath: //input[@id='location']]
+2023-02-07 20:02:929 INFO  Locators :59 - select Distance[[ChromeDriver: chrome on WINDOWS (70d8d5dca663f4ca9574c3005add903c)] -> xpath: //select[@id='distance']]
+2023-02-07 23:02:895 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (0d3ef9ae8fb4456bd35b8e2483fbaff4)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:760 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (0d3ef9ae8fb4456bd35b8e2483fbaff4)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:975 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (2c3e52dac687f1c643c363070ec97d62)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:259 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (2c3e52dac687f1c643c363070ec97d62)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:131 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (b8d7658ed3baae49c563bd89fbdf664e)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:506 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (b8d7658ed3baae49c563bd89fbdf664e)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:80 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (104a385b26ff7be8c24886b9256ac8aa)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:319 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (104a385b26ff7be8c24886b9256ac8aa)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:454 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (fb044fab0ef90416c8a0e69a49b6f345)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:916 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (fb044fab0ef90416c8a0e69a49b6f345)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:35 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (2bc41f6cc09aba19e64a524b4647f34c)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:685 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (2bc41f6cc09aba19e64a524b4647f34c)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:162 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (37d9f38106aaeeb2209beb9ea536d62f)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:384 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (37d9f38106aaeeb2209beb9ea536d62f)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:196 INFO  HomePage :47 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (b3c018166958e3874edafe72a0a6ef8b)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:442 INFO  HomePage :52 - enter Location[[ChromeDriver: chrome on WINDOWS (b3c018166958e3874edafe72a0a6ef8b)] -> xpath: //input[@id='location']]
+2023-02-07 23:02:691 INFO  HomePage :39 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (0e13bd41f7f79453e4d2863a0a28e8c9)] -> xpath: //input[@id='keywords']]
+2023-02-07 23:02:998 INFO  HomePage :44 - enter Location[[ChromeDriver: chrome on WINDOWS (0e13bd41f7f79453e4d2863a0a28e8c9)] -> xpath: //input[@id='location']]
+2023-02-08 00:02:977 INFO  HomePage :39 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (eeac6406bf290f9b2ce070fae375729d)] -> xpath: //input[@id='keywords']]
+2023-02-08 00:02:498 INFO  HomePage :44 - enter Location[[ChromeDriver: chrome on WINDOWS (eeac6406bf290f9b2ce070fae375729d)] -> xpath: //input[@id='location']]
+2023-02-08 00:02:764 INFO  HomePage :39 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (380fe2c8cf2a5586827418680ea04ed2)] -> xpath: //input[@id='keywords']]
+2023-02-08 00:02:36 INFO  HomePage :44 - enter Location[[ChromeDriver: chrome on WINDOWS (380fe2c8cf2a5586827418680ea04ed2)] -> xpath: //input[@id='location']]
+2023-02-08 05:02:317 INFO  HomePage :39 - enter jobTitle[[ChromeDriver: chrome on WINDOWS (e118cb7e7d3f821866a9b27b6dfbcd07)] -> xpath: //input[@id='keywords']]
+2023-02-08 05:02:526 INFO  HomePage :44 - enter Location[[ChromeDriver: chrome on WINDOWS (e118cb7e7d3f821866a9b27b6dfbcd07)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:563 INFO  HomePage :38 - enter jobTitleTester
+2023-02-08 10:02:42 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (13a4f960a4c7d3d81a2454516078e602)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:73 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (13a4f960a4c7d3d81a2454516078e602)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:652 INFO  HomePage :38 - enter jobTitleDevelopment Manager
+2023-02-08 10:02:133 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (f8761958133ff861454b5cc7467056b1)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:169 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (f8761958133ff861454b5cc7467056b1)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:615 INFO  HomePage :38 - enter jobTitleTeacher
+2023-02-08 10:02:922 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (c77a622cd7a194253e665771fa07487e)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:963 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (c77a622cd7a194253e665771fa07487e)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:454 INFO  HomePage :38 - enter jobTitleStore Manager
+2023-02-08 10:02:794 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (cda4d67f6845ad92af3b9339ac738c0b)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:821 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (cda4d67f6845ad92af3b9339ac738c0b)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:947 INFO  HomePage :38 - enter jobTitleMarketing Executive
+2023-02-08 10:02:209 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (dd7127022c6f4c8fe691d6b4ec6f7c54)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:248 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (dd7127022c6f4c8fe691d6b4ec6f7c54)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:200 INFO  HomePage :38 - enter jobTitleQA Analyst
+2023-02-08 10:02:622 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (94a563b2c5760255bc09530d466281c2)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:669 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (94a563b2c5760255bc09530d466281c2)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:80 INFO  HomePage :38 - enter JobTitleTester
+2023-02-08 10:02:524 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (0e144ca0ad490f1267d96a3b3fc7d193)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:729 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (0e144ca0ad490f1267d96a3b3fc7d193)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:248 INFO  HomePage :38 - enter JobTitleTester
+2023-02-08 10:02:475 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (4d3e86c7992040612deb84908456b2a5)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:525 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (4d3e86c7992040612deb84908456b2a5)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:891 INFO  HomePage :38 - enter JobTitleTester
+2023-02-08 10:02:242 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (acd668d518591b99a113d4ce3141ebce)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:277 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (acd668d518591b99a113d4ce3141ebce)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:267 INFO  HomePage :38 - enter JobTitleDevelopment Manager
+2023-02-08 10:02:671 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (503014f5c6755b83c0979d3e4ae81949)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:703 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (503014f5c6755b83c0979d3e4ae81949)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:695 INFO  HomePage :38 - enter JobTitleTeacher
+2023-02-08 10:02:146 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (167d84c02fe67b68719b6677980f7cbe)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:287 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (167d84c02fe67b68719b6677980f7cbe)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:333 INFO  HomePage :38 - enter JobTitleStore Manager
+2023-02-08 10:02:882 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (6cc6fef83338db213140ad1bd8b0f095)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:910 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (6cc6fef83338db213140ad1bd8b0f095)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:173 INFO  HomePage :38 - enter JobTitleMarketing Executive
+2023-02-08 10:02:526 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (34b6d013b2963dda3754aba19c1fe7df)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:549 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (34b6d013b2963dda3754aba19c1fe7df)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:503 INFO  HomePage :38 - enter JobTitleQA Analyst
+2023-02-08 10:02:856 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (035e55fd2ca62e6a764e7f8885b1a688)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:885 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (035e55fd2ca62e6a764e7f8885b1a688)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:293 INFO  HomePage :37 - enter JobTitleTester
+2023-02-08 10:02:820 INFO  HomePage :44 - click on Location[[ChromeDriver: chrome on WINDOWS (479a1034753edb9e9b8d7e3e3fe1a160)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:846 INFO  HomePage :49 - click On Distance[[ChromeDriver: chrome on WINDOWS (479a1034753edb9e9b8d7e3e3fe1a160)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:169 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (5e2add6920801d49ffef930942158a14)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:228 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (5e2add6920801d49ffef930942158a14)] -> xpath: //select[@id='distance']]
+2023-02-08 10:02:60 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (3564417a9af926bafc74628d50adc005)] -> xpath: //input[@id='location']]
+2023-02-08 10:02:140 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (3564417a9af926bafc74628d50adc005)] -> xpath: //select[@id='distance']]
+2023-02-08 11:02:443 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (afd675ce92063c2bb438922d8248314d)] -> xpath: //input[@id='location']]
+2023-02-08 11:02:502 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (afd675ce92063c2bb438922d8248314d)] -> xpath: //select[@id='distance']]
+2023-02-08 11:02:798 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (50edb25763c4717b661ce287702b546c)] -> xpath: //input[@id='location']]
+2023-02-08 11:02:832 INFO  HomePage :48 - click On Distance[[ChromeDriver: chrome on WINDOWS (50edb25763c4717b661ce287702b546c)] -> xpath: //select[@id='distance']]
+2023-02-08 11:02:692 INFO  HomePage :43 - click on Location[[ChromeDriver: chrome on WINDOWS (a7bbffe2c6de78de729750433b6e6a5c)] -> xpath: //input[@id='location']]
+2023-02-08 13:02:153 INFO  HomePage :62 - Clicked on more search option :More Search Options
+2023-02-08 13:02:777 INFO  HomePage :62 - Clicked on more search option :More Search Options
+2023-02-08 13:02:627 INFO  HomePage :20 - click on result[[ChromeDriver: chrome on WINDOWS (4ff7738e3e4bac4ed240628be8b4669a)] -> xpath: //div[@class='search-header__secondary l-flex-row sm-no md-no']/label[1]]
+2023-02-08 13:02:67 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:452 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:596 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:84 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:176 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:434 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:670 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 13:02:966 INFO  HomePage :20 - click on result[[ChromeDriver: chrome on WINDOWS (c968f72d8cc44f4df05a82db47af52f6)] -> xpath: //div[@class='search-header__secondary l-flex-row sm-no md-no']/label[1]]
+2023-02-08 18:02:837 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:20 INFO  HomePage :20 - click on result[[ChromeDriver: chrome on WINDOWS (a830b5448061d5b9a23cbda68867eb55)] -> xpath: //div[@class='search-header__secondary l-flex-row sm-no md-no']/label[1]]
+2023-02-08 18:02:393 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:252 INFO  HomePage :20 - click on result[[ChromeDriver: chrome on WINDOWS (fb756299ec43b513c1d9e19c7889aaa0)] -> xpath: //div[@class='search-header__secondary l-flex-row sm-no md-no']/label[1]]
+2023-02-08 18:02:992 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:166 INFO  HomePage :20 - click on result[[ChromeDriver: chrome on WINDOWS (8556242e72de6a11e9098ef608909108)] -> xpath: //div[@class='search-header__secondary l-flex-row sm-no md-no']/label[1]]
+2023-02-08 18:02:72 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:02 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:70 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:99 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:914 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:541 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 18:02:612 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 19:02:382 INFO  HomePage :61 - Clicked on more search option :More Search Options
+2023-02-08 19:02:787 INFO  HomePage :61 - Clicked on more search option :More Search Options
